@@ -1,0 +1,33 @@
+
+email id technologies used
+-react js ,html,css for frontend and backend
+database
+-supabase
+
+steps to start
+
+sign in to supabase to see your tables 
+:lominoh926@viencel.com
+password: Prozect@1234
+
+with this you can access the database
+
+steps in vs code
+
+1)go to terminal
+  -npm install
+2)npm run dev
+- in terminal you will get the link to start the project 
+3)in sign up provide your valid email , it will send confirmation mail into your gmail or specified email Id ,after 
+confirming you can sign in with the account
+
+it contains
+-employee entries
+-timesheet management 
+-leave management
+-payroll salary management
+-CRUD operations
+-authentications 
+-automatic storing of data in supabase
+
+
